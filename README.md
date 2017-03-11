@@ -1,2 +1,4 @@
 # python_for_kids
-Learning Python with kids
+Teching Python to kids.
+
+From March 2017, Sam and Harry, a lovely girl and a smart boy, at grade 3 and 4, start to learn programming with Python.
