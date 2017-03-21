@@ -1,0 +1,7 @@
+print("Hi,my name is Samantha")
+print("I am 9 years old")
+print("I am in grade 3")
+print("I can do addition 87654321+12345678")
+print("I can do substraction 87654321-12345678")
+print("I can do multiplication 12345678*87654321")
+print("I can do divsion 975310/24680")
