@@ -20,7 +20,7 @@ print("His teeth are usually %s depending on the coffee." % my_teeth)
 
 
 # this line is tricky, try to get it exactly right
-print ("If I squred %.2f and divided by %.2f, I get BMI %.2f." % (
+print ("If I squred %.2f and divide %.2f, I get BMI %.2f." % (
     my_height, my_weight, my_weight/(my_height ** 2)))
 
 '''
