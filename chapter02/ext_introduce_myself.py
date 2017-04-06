@@ -1,21 +1,17 @@
-my_name = 'Eric Yang'
-my_age = 42 # not a lie
-my_height = 1.71 # metre
-my_weight = 80 # kg
+my_name = 'samantha yang'
+my_age = 9 
+my_height = 1.35 # metre
+my_weight = 27 # kg
 my_eyes = 'black'
-my_teeth = 'white'
-my_hair_color = 'black'
-my_hair_style = 'short'
+my_hair_color = 'brown'
+my_hair_style = 'long'
 
-print ('My name is',my_name,'and my age is:', my_age)
-
-print("Let's talk about %s." % my_name)
-print("He's %4.2f metres tall." % my_height)
-print("He's %d kilogram heavy." % my_weight)
-print("Actually that's not too heavy.")
-print("He has %s eyes." % my_eyes)
-print("He's got %s and %s hair." % (my_hair_style, my_hair_color))
-print("His teeth are usually %s depending on the coffee." % my_teeth)
+print ('My name is',my_name,'and my age is',my_age)
+print("she's %4.2f metres tall." % my_height)
+print("she's %d kilograms." % my_weight)
+print("Actually that's pretty light.")
+print("she has %s eyes." % my_eyes)
+print("she's got %s and %s hair." % (my_hair_style, my_hair_color))
 
 
 
